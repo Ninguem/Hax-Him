@@ -1,0 +1,17 @@
+# Lista de comandos associados às teclas:
+
+C-f --> andar para a frente;
+C-b --> andar para trás;
+C-n --> andar para baixo;
+C-p --> andar para cima;
+
+M-< | C-M-p --> início;
+M-> | C-M-n --> fim;
+
+M-b --> uma palavra atrás;
+M-f --> uma palavra à frente;
+M-
+
+C-l --> Colocar a posição do cursor no centro, cimo ou baixo do ecran;
+C-v --> uma página a baixo;
+M-v --> uma página acima;
