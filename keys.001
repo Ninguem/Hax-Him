@@ -12,11 +12,23 @@ C-e --> fim da linha;
 M-a --> frase anterior;
 M-e --> frase seguinte.
 
-M-< | C-M-p --> início;
-M-> | C-M-n --> fim.
+M-<
+C-M-p --> início;
+M->
+C-M-n --> fim.
 
 C-l --> Colocar a posição do cursor no centro, cimo ou baixo do ecran;
 C-v --> uma página a baixo;
 M-v --> uma página acima.
 
-...
+# Lista de comandos para... fazer coisas no EMACS:
+C-x C-f --> Find a file; Abre um ficheiro;
+C-x C-s --> Grava um ficheiro;
+C-u {N.º} {Qqer comando} --> repete o comando {N.º} vezes;
+C-_
+C-x u --> Desfaz;
+
+# Mais coisas...
+
+# Configurações:
+.emacs --> Ficheiro de configuração do EMACS;
