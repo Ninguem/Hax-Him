@@ -1,0 +1,7 @@
+# Lista de comandos para... fazer coisas no EMACS:
+
+C-x C-f --> Find a file; Abre um ficheiro;
+C-x C-s --> Grava um ficheiro;
+C-u {N.º} {Qqer comando} --> repete o comando {N.º} vezes;
+C-_
+C-x u --> Desfaz;
